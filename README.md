@@ -21,18 +21,27 @@
 
 ### 🔬 Research & Expertise
 
-* 🎓 **Master's Research**
-    * AI-based position interpolation using **DNN/LSTM** to mitigate dead reckoning errors.
+* 🎓 **Master's Thesis**
+    * A Positioning Interpolation Algorithm for Mobile Systems Using Sensor-Fusion and AI Learning Model
+* 🎓 **Bachelor's Research**
+    * Wireless Micro Soft Actuator without Payloads Using 3D Helical Coils, 2022, 12, 46
+    * Thermopneumatic Soft Micro Bellows Actuator for Standalone Operation, Micromachines, 2021, 12, 46
 * 🤖 **Core Expertise**
-    * **Robotics Control** & Sensor Data Processing
-    * **Hardware Design** (SolidWorks, Inventor)
-    * Real-time Physical State Prediction
-
+    * **Hardware Design** (Four-wheel steering & Four-wheel driving Miniauture Vehicle Design & Control)
+    * **Robotics Control & Sensor Data Processing** (Cross-platform Data Communication & Control)
+    * **Real-time Physical State Prediction** (Master's Research)
+    * **Structural Analysis & Simulation** (Fingertip Sensor Analysis with Workbench)
+      
 ---
 
 ### 🎓 Master's Thesis Demo
 <a href="https://www.youtube.com/watch?v=BK3wxLdgJ1U">
   <img src="https://img.shields.io/badge/YouTube-Master%27s%20Thesis-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+</a>
+
+### 🤖 Core Expertise Demo
+<a href="https://www.youtube.com/watch?v=BK3wxLdgJ1U">
+  <img src="https://img.shields.io/badge/YouTube-Hardware design-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 </a>
 
 <br/>
